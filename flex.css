@@ -1,0 +1,29 @@
+.red{
+    background: red;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.blue{
+    background: blue;
+    width: 100px;
+    height: 100px;
+}
+
+.yellow{
+    background: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+.pink{
+    background: orange;
+    width 100px;
+    height: 100px;
+}
+.box{
+    display: flex;
+    
+}
+
